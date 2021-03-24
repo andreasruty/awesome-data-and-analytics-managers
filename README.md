@@ -130,6 +130,9 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
 
 ## Technologies
 
+ * Business Intelligence
+   * [The Future of Business Intelligence is Open Source](https://maximebeauchemin.medium.com/the-future-of-business-intelligence-is-open-source-9b654595773a) - Maxime Beauchemin *(Founder Superset/Airflow)*
+
  * General
    * [Big-O explained in plain English](https://stackoverflow.com/a/487278/472433)
    * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
