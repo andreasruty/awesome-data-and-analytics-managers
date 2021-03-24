@@ -26,9 +26,8 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
 ## Hiring
 * [Recruiting, hiring, and managing talent](https://stripe.com/en-se/guides/recruiting-hiring-and-managing-talent) - Elad Gil *(Author of High Growth Handbook)*
 * [Scaling engineering organizations](https://stripe.com/de-hu/atlas/guides/scaling-eng) - Raylene Yung *(Engineering manager Stripe/FB)*
-
- * [Lessons from Keith Rabois: How to Interview an Executive](https://delian.io/lessons-2)
- * [Lessons from Keith Rabois: How to Become a Magnet for Talent](https://delian.io/lessons-5)
+* [Lessons from Keith Rabois: How to Interview an Executive](https://delian.io/lessons-2)
+* [Lessons from Keith Rabois: How to Become a Magnet for Talent](https://delian.io/lessons-5)
  
 ## Management
 
