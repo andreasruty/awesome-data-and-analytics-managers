@@ -2,7 +2,7 @@
 
 Hi :wave: my name is Andreas and I'm Head of Data, Analytics & Data Science
 
-This is a curated **and opinionated** list of resources for Chief Data Officers and Head of Data & Analytics. 
+This is a curated **and opinionated** list of resources for Data & Analytics Managers  
 Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
 
 
@@ -14,11 +14,9 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  * [Handbooks](#handbooks)
  * [Development process](#development-process)
  * [Architecture](#architecture)
+ * [Data Mesh](#datamesh)
  * [Technologies](#technologies)
- * [Startups](#startups)
- * [Related stuff](#related-stuff)
- * [Product](#product)
- * [Marketing](#marketing)
+ * [Data Ops](#data-ops)
  * [More links](#more-links)
 
 
@@ -190,54 +188,17 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  * [Open Source Pitch Deck Templates for Figma](https://www.figmafinder.com/figma-pitch-deck)
  
 
-## Related stuff
+## Dataops
 
- * [Knowledge-Sharing Architects As An Alternative to Coding Architects](http://ithare.com/knowledge-sharing-architects-as-an-alternative-to-coding-architects/)
- * [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12197795))
- * [What are best practices of experienced programmers?](https://www.quora.com/What-are-some-traits-practices-of-experienced-good-programmers-that-every-beginner-programmer-should-know) *(Quora)*
- * [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
- * [2016 European Software Development Salary Survey](https://www.oreilly.com/programming/free/files/2016-european-software-development-salary-survey.pdf) *(O'Reilly)*
  * [DevOps: Bringing development and operations together](https://www.atlassian.com/devops) *(Atlassian)*
  * [DataOps](https://en.wikipedia.org/wiki/Dataops)
  * [How to Prepare a Talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)
- * [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/)
- * [The Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
- * [Senior Engineer’s Checklist](https://medium.com/@littleblah/my-top-25-items-in-a-senior-engineers-checklist-c8e9f9f6e3c2)
- * [Technology Due Diligence Checklist](https://akfpartners.com/growth-blog/technical-due-diligence-checklists)
- 
-## Product
- * [What Makes a Great Product Manager](https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356)
- * [If You Don’t Think You Need a VP of Product...](https://www.saastr.com/if-you-dont-think-you-need-a-vp-of-product-marketing-etc-then-you-havent-worked-with-a-great-one/)
- * [Red Oceans: How to Find Profitable Startup Ideas](https://capitalandgrowth.org/answers/Article/3143488/How-to-Find-Profitable-Business-Ideas)
- * [Product North Star Metric](https://amplitude.com/blog/2018/03/21/product-north-star-metric)
- * [What distinguishes the Top 1% of product managers from the Top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister) - *(Quora)*
- * [How to Hire a Product Manager](https://www.kennorton.com/essays/productmanager.html)
- * [The Secrets Of Creative Thinking](https://www.lemonade.com/blog/creative-thinking-hacks/)
- * [StellarPeers - Product Management Interviews](https://medium.com/stellarpeers)
- * [Product vs. Feature Teams](https://svpg.com/product-vs-feature-teams/)
- * [Most Startups Should Be Deer Hunters](https://bothsidesofthetable.com/most-startups-should-be-deer-hunters-7fdecf58f4f6)
- * [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup)
- * [How to Write Your First Strategic Roadmap](https://ganotnoa.com/how-to-write-your-first-strategic-roadmap-part-1/)
-
-## Marketing
-
- * [Developer Marketing Guide](https://www.devmarketingguide.com)
- * [Top Resources for Startup Marketing and PR](https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb82A/edit#gid=0)
- * [SaaS Email Marketing Handbook](https://saasemailmarketing.net)
-
 
 ## More links
 
  * [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) *(GitHub)*
- * [Engineering blogs](https://github.com/kilimchoi/engineering-blogs) *(GitHub)*
  * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) *(GitHub)*
- * [Awesome.re](https://github.com/sindresorhus/awesome) *(GitHub)*
- * [Chief Technology Officer vs Coder Thinker Organizer](https://github.com/92bondstreet/cto) *(GitHub)*
- * [Senior Software Engineer](https://staffeng.com)
- * [Socal CTO](https://www.socalcto.com/2011/09/startup-cto.html)
- * [Curated list of CTO resources](https://github.com/92bondstreet/cto) *(GitHub)*
- * [Awesome CTO Resources](https://github.com/mateusz-brainhub/awesome-cto-resources) *(GitHub)*
- * [Free Tools for Developers](https://free-for.dev)
+
  
  
 ## License
