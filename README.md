@@ -13,6 +13,7 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  * [Management](#management)
  * [Handbooks](#handbooks)
  * [Development process](#development-process)
+ * [Roles](#roles)
  * [Architecture](#architecture)
  * [Data Mesh](#datamesh)
  * [Technologies](#technologies)
@@ -99,6 +100,11 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
    * [On Call Rotations: How Best to Wake Devs Up in the Middle of the Night](https://thenewstack.io/call-rotations-best-wake-devs-middle-night/)
    * [Testing in Production, the safe way](https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1)
 
+## Roles
+
+ * Data Engineers
+   * [The Rise of the Data Engineer](https://medium.com/free-code-camp/the-rise-of-the-data-engineer-91be18f1e603) - Maxime Beauchemin *(Founder Superset/Airflow)*
+   * [The Downfall of the Data Engineer](https://maximebeauchemin.medium.com/the-downfall-of-the-data-engineer-5bfb701e5d6b) - Maxime Beauchemin *(Founder Superset/Airflow)*
 
 ## Architecture
 
