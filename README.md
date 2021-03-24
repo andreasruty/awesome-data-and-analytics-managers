@@ -21,35 +21,14 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
 
 
 ## General
- * [The Different CTO Roles](https://www.allthingsdistributed.com/2007/07/the_different_cto_roles.html) - Werner Vogels *(Amazon CTO)*
- * [Is it required to be a developer to become a CTO?](https://www.quora.com/Is-it-required-to-be-a-developer-coder-to-become-a-CTO-Why-cant-an-architect-become-a-CTO) *(Quora)*
- * [Three Golden Rules to Finding a CTO](https://www.rudebaguette.com/2011/12/01/three-golden-rules-to-finding-a-cto/)
- * [Becoming a CTO](https://web.archive.org/web/20171128214925/https://juokaz.com/blog/becoming-a-cto)
- * [VP Engineering vs CTO](https://avc.com/2011/10/vp-engineering-vs-cto/) - Fred Wilson *(Union Square Ventures)*
- * [What makes for a successful CEO and CTO relationship in a startup?](https://www.quora.com/What-makes-for-a-successful-CEO-and-CTO-relationship-in-a-startup) *(Quora)*
- * [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe) - Greg Brockman *(Stripe CTO)*
- * [How my role as CTO has changed as we've grown to 100 engineers](https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/)
- * [Your first 90 days as CTO or VP Engineering](https://lethain.com/first-ninety-days-cto-vpe/)
- * [The difference between a CTO and a VP Engineering](https://www.linkedin.com/pulse/20140615184118-4928723-the-differences-between-a-cto-and-a-vp-engineering/)
-## Hiring
+ * [Chief Data Officers Struggle To Make A Business Impact](https://www.forbes.com/sites/ciocentral/2019/06/24/chief-data-officers-struggle-to-make-a-business-impact/?sh=43ead4fcf1a4) - 
 
- * [The Guerrilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - Joel Spolsky *(StackOverflow co-founder)*
- * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - Joel Spolsky
- * [Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program/) - Jeff Atwood *(StackOverflow co-founder)*
- * [We Hire the Best, Just Like Everyone Else](https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/) - Jeff Atwood
- * [Getting the Interview Phone Screen Right](https://blog.codinghorror.com/getting-the-interview-phone-screen-right/) - Jeff Atwood
- * [Engineering interview process at Stripe](https://www.quora.com/What-is-the-engineering-interview-process-like-at-Stripe) *(Quora)*
- * [Improving Our Engineering Interview Process](https://medium.com/foursquare-direct/improving-our-engineering-interview-process-106173ba25a9) *(Foursquare)*
- * [Hitting the High Notes](https://www.joelonsoftware.com/2005/07/25/hitting-the-high-notes/) - Joel Spolsky
- * [Top 10 System Design Interview Questions](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444) - *(HackerNoon)*
- * [How To Hire World-Class Engineers](https://angel.co/blog/how-to-hire-world-class-engineers) *(angel.co)*
- * [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/)
- * [Reverse interview](https://github.com/viraptor/reverse-interview)
- * [The Real 11 Reasons I Don't Hire You](https://charity.wtf/2019/10/18/the-real-11-reasons-i-dont-hire-you/) - Charity Majors
- * [How to Interview at Amazon](https://www.linkedin.com/pulse/how-interview-amazon-leadership-david-anderson/)
+## Hiring
+* [Recruiting, hiring, and managing talent](https://stripe.com/en-se/guides/recruiting-hiring-and-managing-talent) - Elad Gil *(Author of High Growth Handbook)*
+* [Scaling engineering organizations](https://stripe.com/de-hu/atlas/guides/scaling-eng) - Raylene Yung *(Engineering manager Stripe/FB)*
+
  * [Lessons from Keith Rabois: How to Interview an Executive](https://delian.io/lessons-2)
  * [Lessons from Keith Rabois: How to Become a Magnet for Talent](https://delian.io/lessons-5)
- * [Reverse Interview Questions](https://github.com/viraptor/reverse-interview)
  
 ## Management
 
