@@ -23,6 +23,7 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
 ## General
  * [Chief Data Officers Struggle To Make A Business Impact](https://www.forbes.com/sites/ciocentral/2019/06/24/chief-data-officers-struggle-to-make-a-business-impact/?sh=43ead4fcf1a4) - Randy Bean *(Forbes)*
  * [An Emerging Consensus Among Chief Data Officers](https://www.forbes.com/sites/tomdavenport/2020/02/26/an-emerging-consensus-among-chief-data-officers/?sh=1f7472661315) - Tom Davenport *(Forbes)*
+ * [Are You Asking Too Much of Your Chief Data Officer?](https://hbr.org/2020/02/are-you-asking-too-much-of-your-chief-data-officer) - Tom Davenport *(Harvard Business Review)*
  
 ## Hiring
 * [Recruiting, hiring, and managing talent](https://stripe.com/en-se/guides/recruiting-hiring-and-managing-talent) - Elad Gil *(Author of High Growth Handbook)*
