@@ -190,6 +190,7 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
 
  * [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) *(GitHub)*
  * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) *(GitHub)*
+ * [Monzo - How we scaled our data team from 1 to 30 people](https://monzo.com/blog/2019/11/04/how-we-scaled-our-data-team-from-1-to-30-people-part-1)
 
  
  
