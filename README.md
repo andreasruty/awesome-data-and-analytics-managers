@@ -16,6 +16,7 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  * [Roles](#roles)
  * [Architecture](#architecture)
  * [Data Mesh](#datamesh)
+ * [Data Streaming](#datastreaming)
  * [Technologies](#technologies)
  * [Data Ops](#data-ops)
  * [More links](#more-links)
@@ -131,6 +132,12 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  * [The Single Most Important Internal Email in the History of Amazon](https://www.sametab.com/blog/frameworks-for-remote-working)
  * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
  * [A reference guide for fintech & small-data engineering](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
+
+## Data Mesh
+ * [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html) - Zhamak Dehghani
+ 
+## Data Streaming
+ * [Building Stream Processing as a Service](https://lnkd.in/dtR7cb3) - Steven Wu *(Netflix)*
 
 ## Technologies
 
