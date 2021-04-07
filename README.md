@@ -79,7 +79,7 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
  * [How HashiCorp Works](https://works.hashicorp.com/)
 
-##Education
+## Education
  * [Airbnb Data U](https://medium.com/airbnb-engineering/how-airbnb-democratizes-data-science-with-data-university-3eccc71e073a)
 
 ## Development process
