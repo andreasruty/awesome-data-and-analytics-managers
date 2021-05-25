@@ -27,6 +27,7 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  * [An Emerging Consensus Among Chief Data Officers](https://www.forbes.com/sites/tomdavenport/2020/02/26/an-emerging-consensus-among-chief-data-officers/?sh=1f7472661315) - Tom Davenport *(Forbes)*
  * [Are You Asking Too Much of Your Chief Data Officer?](https://hbr.org/2020/02/are-you-asking-too-much-of-your-chief-data-officer) - Tom Davenport *(Harvard Business Review)*
  * [Uber](https://eng.uber.com/ubers-journey-toward-better-data-culture-from-first-principles/)
+ * [CDO books](https://carruthersandjackson.com/thought-leadership-our-books/)
  
 ## Hiring
 * [Recruiting, hiring, and managing talent](https://stripe.com/en-se/guides/recruiting-hiring-and-managing-talent) - Elad Gil *(Author of High Growth Handbook)*
