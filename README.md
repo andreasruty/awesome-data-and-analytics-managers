@@ -8,6 +8,7 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
 
 ## Contents
 
+ * [Events](#events)
  * [General](#general)
  * [Hiring](#hiring)
  * [Management](#management)
@@ -21,6 +22,8 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  * [Data Ops](#data-ops)
  * [More links](#more-links)
 
+## General
+ * [Building the modern stack with open source data solutions | Sept. 28 - 30](https://www.opensourcedatastack.com/schedule) 
 
 ## General
  * [Chief Data Officers Struggle To Make A Business Impact](https://www.forbes.com/sites/ciocentral/2019/06/24/chief-data-officers-struggle-to-make-a-business-impact/?sh=43ead4fcf1a4) - Randy Bean *(Forbes)*
