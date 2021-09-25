@@ -25,6 +25,9 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
 ## Events
 ### September
  * [Building the modern stack with open source data solutions | Sept. 28 - 30](https://www.opensourcedatastack.com/schedule) 
+### October
+ * [DataEngBytes! is a community conference centred on real world data engineering problems and solutions | Oct. 5 - 7](https://dataengconf.com.au/sessions) 
+
 
 ## General
  * [Chief Data Officers Struggle To Make A Business Impact](https://www.forbes.com/sites/ciocentral/2019/06/24/chief-data-officers-struggle-to-make-a-business-impact/?sh=43ead4fcf1a4) - Randy Bean *(Forbes)*
