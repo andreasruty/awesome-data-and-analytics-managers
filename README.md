@@ -22,7 +22,8 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  * [Data Ops](#data-ops)
  * [More links](#more-links)
 
-## General
+## Events
+### September
  * [Building the modern stack with open source data solutions | Sept. 28 - 30](https://www.opensourcedatastack.com/schedule) 
 
 ## General
